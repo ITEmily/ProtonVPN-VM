@@ -17,9 +17,9 @@ In this tutorial, we set up a Windows Virtual Machine and test the VPN (Virtual 
 
 <h2>High-Level Steps</h2>
 
-- Step 1: Create a Resource Group and then find and click on Virtual Machines
-- Step 2
-- Step 3
+- Step 1: Create a Resource Group and then find and click on Virtual Machines.
+- Step 2: Create a Windows 10 Virtual Machine in another geographic location.
+- Step 3: Use Remote Desktop to connect to the Windows 10 Virtual Machine. Browse to https://whatismyipaddress.com and note where it originates from. 
 - Step 4
 
 <h2>Actions and Observations</h2>
@@ -31,6 +31,24 @@ In this tutorial, we set up a Windows Virtual Machine and test the VPN (Virtual 
 Step 1:  Create a Resource Group and then find and click on Virtual Machines
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 2: 
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/mOA6hCC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 3: Use Remote Desktop to connect to the Windows 10 Virtual Machine. Browse to https://whatismyipaddress.com and note where it originates from.
+</p>
+<br />
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
