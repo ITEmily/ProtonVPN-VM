@@ -17,12 +17,20 @@ In this tutorial, we set up a Windows Virtual Machine and test the VPN (Virtual 
 
 <h2>High-Level Steps</h2>
 
-- Step 1
+- Step 1: Create a Resource Group and then find and click on Virtual Machines
 - Step 2
 - Step 3
 - Step 4
 
 <h2>Actions and Observations</h2>
+
+<p>
+<img src="https://i.imgur.com/CmtzSeG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 1:  Create a Resource Group and then find and click on Virtual Machines
+</p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
