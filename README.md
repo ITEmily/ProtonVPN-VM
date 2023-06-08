@@ -19,8 +19,9 @@ In this tutorial, we set up a Windows Virtual Machine and test the VPN (Virtual 
 
 - Step 1: Create a Resource Group and then find and click on Virtual Machines.
 - Step 2: Create a Windows 10 Virtual Machine in another geographic location.
-- Step 3: Use Remote Desktop to connect to the Windows 10 Virtual Machine. Browse to https://whatismyipaddress.com and note where it originates from. 
-- Step 4
+- Step 3: Use Remote Desktop to connect to the Windows 10 Virtual Machine. Browse to https://ip.me and note where it originates from. 
+- Step 4: In your Windows 10 Virtual Machine, download the Proton VPN client. Log into the VPN and choose a VPN in another country.
+- Step 5: Browse to https://ip.me and note the new "location" of the ip address.
 
 <h2>Actions and Observations</h2>
 
@@ -42,34 +43,27 @@ Step 2: Create a Windows 10 Virtual Machine in another geographic location.
 
 
 <p>
-<img src="https://i.imgur.com/mOA6hCC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fUWLB7G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 3: Use Remote Desktop to connect to the Windows 10 Virtual Machine. Browse to https://whatismyipaddress.com and note where it originates from.
+Step 3: Use Remote Desktop to connect to the Windows 10 Virtual Machine. Browse to https://ip.me and note where it originates from.
 </p>
 <br />
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/60P4UAG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 4: In your Windows 10 Virtual Machine, download the Proton VPN client. Log into the VPN and choose a VPN in another country. (This screen shot shows my choosen VPN in Japan.)
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OaZsoau.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 5: Browse to https://ip.me and note the new "location" of the ip address.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
