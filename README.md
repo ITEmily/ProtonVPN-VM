@@ -33,10 +33,10 @@ Step 1:  Create a Resource Group and then find and click on Virtual Machines
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tOizWHo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 2: 
+Step 2: Create a Windows 10 Virtual Machine in another geographic location.
 </p>
 <br />
 
