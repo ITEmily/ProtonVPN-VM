@@ -26,6 +26,8 @@ In this tutorial, we set up a Windows Virtual Machine and test the VPN (Virtual 
 - Step 3: Use Remote Desktop to connect to the Windows 10 Virtual Machine. Browse to https://ip.me. 
 - Step 4: In your Windows 10 Virtual Machine, download the Proton VPN client.
 - Step 5: Browse to https://ip.me and note the new "location" of the ip address.
+<br />
+<br />
 
 <h2>Actions and Observations</h2>
 
@@ -36,6 +38,8 @@ In this tutorial, we set up a Windows Virtual Machine and test the VPN (Virtual 
 Step 1:  Create a Resource Group.  Find the Virtual Machines option.
 </p>
 <br />
+<br />
+<br />
 
 <p>
 <img src="https://i.imgur.com/tOizWHo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -43,6 +47,8 @@ Step 1:  Create a Resource Group.  Find the Virtual Machines option.
 <p>
 Step 2: Create a Windows 10 Virtual Machine in another geographic location.
 </p>
+<br />
+<br />
 <br />
 
 
@@ -53,6 +59,8 @@ Step 2: Create a Windows 10 Virtual Machine in another geographic location.
 Step 3: Use Remote Desktop to connect to the Windows 10 Virtual Machine. Browse to https://ip.me and note where it originates from.
 </p>
 <br />
+<br />
+<br />
 
 
 <p>
@@ -61,6 +69,8 @@ Step 3: Use Remote Desktop to connect to the Windows 10 Virtual Machine. Browse 
 <p>
 Step 4: In your Windows 10 Virtual Machine, download the Proton VPN client. Log into the VPN and choose a VPN in another country. (This screen shot shows my VPN in Japan.)
 </p>
+<br />
+<br />
 <br />
 
 <p>
